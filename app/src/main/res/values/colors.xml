@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--background-->
+    <color name="pinkBg">#F21B5C</color>
+    <color name="blueBg">#04064D</color>
+
+    <!--icons-->
+    <color name="yellow">#F8CD40</color>
+
+    <!--others-->
+    <color name="pink">#F6059E</color>
+    <color name="blue">#031C99</color>
+    <color name="lightBlack">#232323</color>
+    <color name="lightBlue">#0062FF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+
+
+
+</resources>
