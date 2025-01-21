@@ -12,11 +12,14 @@
 
     <!--others-->
     <color name="pink">#F6059E</color>
-    <color name="blue">#031C99</color>
-    <color name="lightBlack">#232323</color>
-    <color name="lightBlue">#0062FF</color>
-    <color name="transparent">#00FFFFFF</color>
 
+    <color name="blue">#031C99</color>
+    <color name="lightBlue">#0062FF</color>
+    <color name="darkBlue">#04187C</color>
+
+    <color name="lightGray">#BEB2B2</color>
+    <color name="lightBlack">#232323</color>
+    <color name="transparent">#00FFFFFF</color>
 
 
 
